@@ -172,3 +172,10 @@ db.numbers.countDocuments({value: {$mod: [5, 0]}})
 - MongoDB повинен бути запущений перед стартом додатка
 - За замовчуванням MongoDB створює папку `C:\data\db` для зберігання даних
 - Якщо сервер MongoDB не запускається, спробуйте видалити `C:\data\db` та створити заново
+
+
+## Автор
+
+**Розробник:** Сергій Щербаков
+**Email:** sergiyscherbakov@ukr.net
+**Telegram:** @sergiyscherbakov
