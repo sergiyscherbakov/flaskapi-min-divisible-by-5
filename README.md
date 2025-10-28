@@ -174,8 +174,9 @@ db.numbers.countDocuments({value: {$mod: [5, 0]}})
 - Якщо сервер MongoDB не запускається, спробуйте видалити `C:\data\db` та створити заново
 
 
+
 ## Автор
 
 **Розробник:** Сергій Щербаков
 **Email:** sergiyscherbakov@ukr.net
-**Telegram:** @sergiyscherbakov
+**Telegram:** @s_help_2010
